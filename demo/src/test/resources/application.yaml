@@ -1,0 +1,6 @@
+fs:
+  autotest:
+    ui:
+      type: WEB
+      web:
+        version: 86
